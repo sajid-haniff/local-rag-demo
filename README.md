@@ -5,7 +5,6 @@ A fully local, private Retrieval-Augmented Generation (RAG) system running on Py
 ## 🚀 Features
 
 * **100% Local:** Runs entirely on your machine using [Ollama](https://ollama.com/) and [ChromaDB](https://www.trychroma.com/).
-* **Privacy-First:** No data leaves your network. Perfect for sensitive documents (DevSecOps manuals, financial reports).
 * **Dual Implementation:**
     * `vector_pipeline.py`: A manual, "under-the-hood" implementation to demonstrate core RAG mechanics.
     * `simple_rag.py`: A high-level implementation using **LangChain** for production-ready abstraction.
