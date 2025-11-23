@@ -1,0 +1,16 @@
+# --- IDE & OS Junk ---
+.idea/
+.vscode/
+__pycache__/
+*.Zone.Identifier
+
+# --- Environment ---
+.venv/
+venv/
+.env
+
+# --- Generated Databases ---
+my_local_vector_db/
+simple_local_db/
+chroma_db/
+pension.pdf
